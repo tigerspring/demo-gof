@@ -1,6 +1,6 @@
 package v1.pizza;
 
-public abstract class Pizza {
+public class Pizza {
     public  void prepare(){
         System.out.println("准备pizza");
     }
